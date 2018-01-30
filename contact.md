@@ -1,0 +1,45 @@
+---
+layout: page
+title: Contact Us
+---
+
+        <form method="post" action="https://formspree.io/khalia@intechcamp.co">
+          <div class="row uniform">
+            <div class="6u 12u$(xsmall)">
+              <input type="text" name="name" id="name" value="" placeholder="Name" />
+            </div>
+            <div class="6u$ 12u$(xsmall)">
+              <input type="email" name="email" id="email" value="" placeholder="Email" />
+            </div>
+            <div class="12u$">
+              <div class="select-wrapper">
+                <select name="category" id="category">
+                  <option value="">- Category -</option>
+                  <option value="1">Camp Information</option>
+                  <option value="2">Volunteer Information</option>
+                  <option value="3">Sponsorship</option>
+                  <option value="4">Other</option>
+                </select>
+              </div>
+            </div>
+            <div class="6u 12u$(small)">
+              <input type="checkbox" id="copy" name="copy">
+              <label for="copy">Email me a copy</label>
+            </div>
+            <div class="6u$ 12u$(small)">
+              <input type="checkbox" id="human" name="human" checked>
+              <label for="human">Not a robot</label>
+            </div>
+            <div class="12u$">
+              <textarea name="message" id="message" placeholder="Enter your message" rows="6"></textarea>
+            </div>
+            <div class="12u$">
+              <ul class="actions">
+                <li><input type="submit" value="Send Message" class="special" /></li>
+                <li><input type="reset" value="Reset" /></li>
+              </ul>
+            </div>
+          </div>
+        </form>
+
+  

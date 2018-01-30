@@ -1,0 +1,58 @@
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: INTech Camp for Girls
+description: |
+  Getting more girls involved INTech through hands-on
+  activities and exposure to women in the field.
+owner: INTech Foundation, Inc. # or company name
+first_published: 2017 # if migrating another site, the year of your first publish
+email: khalia@intechcamp.co
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://intechcamp.co" # the base hostname & protocol for your site
+social:
+  twitter: https://twitter.com/INTechCamp
+  linkedin-square: https://www.linkedin.com/company/10699590/
+  facebook-official: https://facebook.com/INTechCamp
+  instagram: http://instagram.com/intechcamp
+  email: /contact.html
+  amazon: http://intech.camp/ishopamazon
+  #flickr:
+  #youtube-square:
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+#sass:
+#  style: compressed
