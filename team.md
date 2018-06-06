@@ -7,7 +7,7 @@ title: Our Team
       <div class="box alt">
   <div class="row uniform 50%">
     <div class="4u"><span class="image fit"><img src="/images/board/khalia-headshot.jpg" alt="" />
-      <p><strong><a href="https://www.linkedin.com/in/khaliabraswell/" target="_blank">Khalia Braswell</a></strong><br />Founder/Executive Director & Board President<br />User Experience at Apple, Inc.</p>
+      <p><strong><a href="https://www.linkedin.com/in/khaliabraswell/" target="_blank">Khalia Braswell</a></strong><br />Founder, Executive Director & Board President<br />User Experience at Apple, Inc.</p>
     </span></div>
     <div class="4u"><span class="image fit"><img src="/images/board/kareem-headshot.jpg" alt="" />
       <p><strong><a href="https://www.linkedin.com/in/kareem-howell-58604713/" target="_blank">Kareem Howell</a></strong><br />Board Secretary<br />Vice President & General Counsel at Integration Point, Inc.</p>
